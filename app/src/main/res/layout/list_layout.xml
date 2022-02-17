@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+
+    >
+
+
+    <TextView
+        android:id="@+id/id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:layout_weight="5"
+        android:text="ID"
+        android:textSize="20sp"
+        android:fontFamily="@font/ibmplex_semibold"
+        android:textColor="#fff"
+        android:textFontWeight="600"
+        android:background="@drawable/list_item"
+        android:gravity="center"/>
+
+    <TextView
+        android:id="@+id/libelle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:layout_weight="3"
+        android:text="ARTICLE"
+        android:textSize="20sp"
+        android:fontFamily="@font/ibmplex_semibold"
+        android:textColor="#fff"
+        android:background="@drawable/list_item"
+        android:gravity="center"/>
+
+    <TextView
+        android:id="@+id/p_u"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:layout_weight="4"
+        android:text="DH"
+        android:textSize="20sp"
+        android:fontFamily="@font/ibmplex_semibold"
+        android:textColor="#fff"
+        android:background="@drawable/list_item"
+        android:gravity="center"/>
+
+</LinearLayout>
