@@ -44,4 +44,11 @@ On peut ajouter un article en cliquant sur le bouton « ajouter un article », p
   <img src="https://user-images.githubusercontent.com/65272079/154691663-c4807c18-8c4f-481d-93d2-dbe8a00ea422.png" height="400px"/>
 </p>
 
+Regardons maintenant l’article qui a été ajouté dans notre base de données H2.
+
+<p align="middle">
+  <img src="https://user-images.githubusercontent.com/65272079/154695123-61ef78b5-b370-403c-8486-9572ca3f519b.png" height="400px"/>
+</p>
+
+
 
