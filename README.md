@@ -29,9 +29,9 @@ Les 4 catégories de l'application sont :
 On affiche une liste des différents articles pour chaque catégorie dans le tableau. L'application calcule aussi le nombre d'articles ainsi que la somme des prix unitaires.
 
 <p align="middle">
-  <img src="https://user-images.githubusercontent.com/65272079/154689234-ac95abe6-e60d-49a8-8865-199c20e83b4e.png" height="500px"/>
-  <img src="https://user-images.githubusercontent.com/65272079/154689136-066b1555-7509-4792-a16e-10b5e9b3d92e.png" height="500px"/>
-  <img src="https://user-images.githubusercontent.com/65272079/154689179-64c452a9-1667-4d5c-bdae-649ad0d41ad6.png" height="500px"/>
+  <img src="https://user-images.githubusercontent.com/65272079/154689234-ac95abe6-e60d-49a8-8865-199c20e83b4e.png" height="400px"/>
+  <img src="https://user-images.githubusercontent.com/65272079/154689136-066b1555-7509-4792-a16e-10b5e9b3d92e.png" height="400px"/>
+  <img src="https://user-images.githubusercontent.com/65272079/154689179-64c452a9-1667-4d5c-bdae-649ad0d41ad6.png" height="400px"/>
 </p>
 
 ### Page pour ajouter un article
@@ -39,9 +39,9 @@ On affiche une liste des différents articles pour chaque catégorie dans le tab
 On peut ajouter un article en cliquant sur le bouton « ajouter un article », puis on se dirige vers une nouvelle page. On mentionne le nom et le prix de l’article ajouté. L’article s’ajoute dans le tableau de la catégorie.
 
 <p align="middle">
-  <img src="https://user-images.githubusercontent.com/65272079/154691468-39a003fe-6516-4630-b5c1-c3ca2ef908f5.png" height="500px"/>
-  <img src="https://user-images.githubusercontent.com/65272079/154691585-6d36efb1-59fd-435d-8d21-657f7c617416.png" height="500px"/>
-  <img src="https://user-images.githubusercontent.com/65272079/154691663-c4807c18-8c4f-481d-93d2-dbe8a00ea422.png" height="500px"/>
+  <img src="https://user-images.githubusercontent.com/65272079/154691468-39a003fe-6516-4630-b5c1-c3ca2ef908f5.png" height="400px"/>
+  <img src="https://user-images.githubusercontent.com/65272079/154691585-6d36efb1-59fd-435d-8d21-657f7c617416.png" height="400px"/>
+  <img src="https://user-images.githubusercontent.com/65272079/154691663-c4807c18-8c4f-481d-93d2-dbe8a00ea422.png" height="400px"/>
 </p>
 
 
